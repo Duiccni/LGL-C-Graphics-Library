@@ -17,4 +17,4 @@
 ### Details about code
 * We writed code acording to ReSharper Syntax rules.
 
-* I am not a writer if someone interested in help to write README.md file contact me i am active at instagram (@tottsuka).
+### I am not a writer if someone interested in help to write README.md file contact me i am active at instagram (@tottsuka).
