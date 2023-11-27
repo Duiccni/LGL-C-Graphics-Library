@@ -15,6 +15,8 @@
 * Point.h header file with lots of operators
 * fill_rect() function with alpha (0-255)
 * fill (clear) surface or color >> surface (>> operator)
+* Dashed Line
+* Thickness line
 
 ### Details about code
 * We writed code acording to ReSharper Syntax rules.
