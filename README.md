@@ -20,6 +20,7 @@
 
 ### Details about code
 * We writed code acording to ReSharper Syntax rules.
+* Its more like C code then C++ code but we used operator overrides and refrences.
 
 ### I am not a writer if someone interested in help to write README.md file contact me i am active at instagram (@tottsuka).
 
