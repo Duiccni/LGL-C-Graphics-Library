@@ -1,5 +1,7 @@
 # LGL-C-Graphics-Library
 
+![image](https://github.com/Duiccni/LGL-C-Graphics-Library/assets/143947543/a68456ea-f5ba-4014-afa5-205cd5048cdc)
+
 ### Basic c++ Graphic library
 * Can create surface
 * Rendering Courier New Font (uses a diffrent method. creates font.bin file using font1.png file with pngtobinary.py code (it is a simple code a intermediate level programmer can understand in seconds.))
