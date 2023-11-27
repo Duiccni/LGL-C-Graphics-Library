@@ -23,5 +23,5 @@
 
 ### I am not a writer if someone interested in help to write README.md file contact me i am active at instagram (@tottsuka).
 
-* Note: i still didnt biased 'y' dim characters so '-' is looks like '_'
+* Note: i still didnt biased 'y' dim characters so '-' is looks like '_'  
 ![image](https://github.com/Duiccni/LGL-C-Graphics-Library/assets/143947543/7758c362-60f2-4b6a-bfa8-6822ed13805e)
