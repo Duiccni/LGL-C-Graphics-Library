@@ -27,20 +27,22 @@ my = 0
 
 sizeee = 0
 
+c = 0
 while next_start < image_size[1]:
     dim = getdim()
-    print(dim)
+    print(dim, end=f"   \t({chr(33 + c)}),\t")
+    c += 1
     mx = max(mx, dim[0])
     my = max(my, dim[1])
     bytes.append(dim[0])
     bytes.append(dim[1])
-    sizeee += dim[0] * dim[1] + 4
-    bytes.append(0)
+    sizeee += dim[0] * dim[1] + 3
+    print(hex(len(bytes)))
     bytes.append(0)
 
     for y in range(dim[1] - 1, -1, -1):
         for x in range(next_start, next_start + dim[0]):
-            if (image[y][x][0] == 0 and image[y][x][2] == 0):
+            if (image[y][x][0] < 0.1 and image[y][x][1] < 0.1 and image[y][x][2] < 0.1):
                 bytes.append(1)
             else:
                 bytes.append(0)
