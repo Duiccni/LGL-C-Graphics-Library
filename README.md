@@ -2,6 +2,8 @@
 
 ![image](https://github.com/Duiccni/LGL-C-Graphics-Library/assets/143947543/a68456ea-f5ba-4014-afa5-205cd5048cdc)
 
+![image](https://github.com/Duiccni/LGL-C-Graphics-Library/assets/143947543/87b50951-c0c9-4719-8430-30734a358d21)
+
 ### Basic c++ Graphic library
 * Can create surface
 * Rendering Courier New Font (uses a diffrent method. creates font.bin file using font1.png file with pngtobinary.py code (it is a simple code a intermediate level programmer can understand in seconds.))
@@ -17,6 +19,9 @@
 * fill (clear) surface or color >> surface (>> operator)
 * Dashed Line
 * Thickness line
+* gray scale
+* revert colors
+* font antialiasing
 
 ### Details about code
 * We writed code acording to ReSharper Syntax rules.
